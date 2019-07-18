@@ -5,6 +5,6 @@
 
 I am the best writer
 
-[This is a page](new_page.md)
+[This is a page](posts/new_page.md)
 
-[This is a page](new_page2.md)
+[This is a page](posts/new_page2.md)

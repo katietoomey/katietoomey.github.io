@@ -1,0 +1,19 @@
+
+For now these are the instructions for adding a new post to your blog
+
+1. Add a markdown file inside the `posts` folder. You can call it whatever you want as long as you add .md at the end.
+2. Write your blog post inside that new markdown file you made. Look up a markdown cheatsheet for help.
+3. Link the new post on your index.md file just like you did with the example ones we did together. 
+  a. - [The name of the post](posts/the_name_of_your_post.md)
+
+Now you have a new post! The only problem is that it's only on your laptop and not on your actual website.
+To put it on the website you're going to go through the steps that I showed you when we hung out 
+  (Click `stage all` in that window, then write a little commit message, hit the `commit` button, and finally hit `push`)
+
+
+This is your website so edit whatever you like. 
+If you want to change the index.md page then go for it and format it however you want.
+Unforunately, it won't be the most beautiful website of all time but it's a great way to blog for free. 
+When you get rich and famous from writing and research you can hire me to make you a big fancy website 
+with all of the bells and whistles :)
+
